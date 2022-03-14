@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.amber
       ),
-      initialRoute: 'login_page',
+      initialRoute: 'chat_page',
       routes: routes,
     );
   }
